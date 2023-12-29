@@ -1,2 +1,2 @@
-# Facial_Recognition_app
-A facial recognition app using python and deep learning
+A language model to understand human language
+
